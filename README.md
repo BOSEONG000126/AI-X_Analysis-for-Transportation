@@ -17,6 +17,12 @@
 
 <br/>
 
+## 활용 데이터셋: 장애인 체력측정별 추천 운동 데이터
+<img src="https://github.com/BOSEONG000126/AI-X_Analysis-of-Demand-for-Public-Transportation/assets/116350240/0c8d29ae-c38f-4c92-8029-a190bfa10f4d" width="600" height="300">
+
+* [데이터셋 출처 링크](https://data.seoul.go.kr/dataList/datasetList.do)
+
+
 ## Data Analysis
 ### [1] Derive insights
 <img src="https://github.com/BOSEONG000126/AI-X_Analysis-of-Demand-for-Public-Transportation/assets/116350240/4cd755cd-7fab-4200-a6f2-5a2b90b98c36"  width="500" height="400">
