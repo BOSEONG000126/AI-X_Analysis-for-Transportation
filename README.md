@@ -1,5 +1,5 @@
 # AI-X 서울시 생활 정보기반 대중교통 수요 분석
-<img src="https://github.com/BOSEONG000126/AI-X_Analysis-of-Demand-for-Public-Transportation/assets/116350240/1f5bc6f3-d78d-4d9b-b840-c1d49c81aadf" width="900" height="350">
+<img src="https://github.com/BOSEONG000126/AI-X_Analysis-of-Demand-for-Public-Transportation/assets/116350240/1f5bc6f3-d78d-4d9b-b840-c1d49c81aadf" width="800" height="350">
 
 
 
@@ -17,7 +17,7 @@
 
 <br/>
 
-## 활용 데이터셋: 장애인 체력측정별 추천 운동 데이터
+## Data : 서울시 버스 승하차 데이터
 <img src="https://github.com/BOSEONG000126/AI-X_Analysis-of-Demand-for-Public-Transportation/assets/116350240/0c8d29ae-c38f-4c92-8029-a190bfa10f4d" width="600" height="300">
 
 * [데이터셋 출처 링크](https://data.seoul.go.kr/dataList/datasetList.do)
